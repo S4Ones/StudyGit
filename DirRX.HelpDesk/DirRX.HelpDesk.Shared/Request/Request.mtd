@@ -87,6 +87,16 @@
       "IsRequired": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DateTimeEditorToDateTimeBinder",
       "PreviousPropertyGuid": "7317c414-d1f1-49a2-99ca-8031cf6303df"
+    },
+    {
+      "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "3de605cb-d4eb-46bb-bdd7-84875796b0bf",
+      "Name": "Responsible",
+      "Code": "Responsible",
+      "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
+      "IsRequired": true,
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+      "PreviousPropertyGuid": "761a26e5-a301-41da-b3d4-618251411b4a"
     }
   ],
   "PublicStructures": [],
